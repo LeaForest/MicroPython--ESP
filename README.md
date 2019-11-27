@@ -1,6 +1,6 @@
 # 通过Python进行Nodemcu的编写
 
-使用__[MicroPython](http://www.micropython.org/)__，及相应IDE对Nodemcu进行编辑控制
+使用 __[MicroPython](http://www.micropython.org/)__ ，及相应IDE对Nodemcu进行编辑控制
 
 
 
